@@ -1,5 +1,5 @@
-theme: jekyll-theme-cayman
-timezone: America/Belem
 title: gp2w
-twitter_username: gp2w_
-github_username:  gp2w
+description: Site de apresentação da organização e de seus projetos.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
