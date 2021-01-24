@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# gp2w.github.io
 
-You can use the [editor on GitHub](https://github.com/gp2w/gp2w.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Descrição
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este repositório contém o código fonte do site exibido em [https://gp2w.github.io/](https://gp2w.github.io).
 
-### Markdown
+## Uso
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Os arquivos desse repositório funcionam em qualquer outro que esteja habilitado para uso com o GitHub Pages. Se necessário, altere o tema do site editando o arquivo _config.yml_ na linha apropriada. Se você encontrou um erro no site, por favor, use as ferramentas próprias do Github para sugerir alterações.
 
-```markdown
-Syntax highlighted code block
+## Licença
 
-# Header 1
-## Header 2
-### Header 3
+Copyright 2021 Geandreson Costa, Pedro Nascimento, Wesler Sales & Weverson Nascimento
 
-- Bulleted
-- List
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-1. Numbered
-2. List
+    http://www.apache.org/licenses/LICENSE-2.0
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gp2w/gp2w.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
