@@ -1,5 +1,5 @@
 ---
-title: GP2W - Início
+title: Início
 intro: 'Site do GP2W, grupo formado por Geandreson, Pedro, Wesler e Weverson.'
 ---
 

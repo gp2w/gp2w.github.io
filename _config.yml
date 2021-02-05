@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
-title: gp2w
+title: GP2W
 description: Site de apresentação da organização e de seus projetos.
 show_downloads: false
 google_analytics:
 github:
-  repository_url: https://gp2w.github.io/
+  repository_url: https://github.com/gp2w/gp2w.github.io 
